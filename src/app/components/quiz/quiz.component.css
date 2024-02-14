@@ -10,6 +10,9 @@
   align-items: center;
   margin-bottom: 10px;
 }
+.quiz-logo > h3 {
+  margin-top: 20px;
+}
 .quiz-questions-title {
   margin-top: 20px;
 }
@@ -28,7 +31,7 @@
   flex-wrap: wrap;
   justify-content: center;
   margin: auto;
-  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .quiz-options-button {
   background-color: transparent;
